@@ -1,1 +1,1 @@
-Fluuter: Signup Screen
+Flutter: Signup Screen
